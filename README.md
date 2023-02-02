@@ -1,6 +1,6 @@
 # Assetto-Corsa-Tachometer-WS2812B
 
-Python app to send RPM data from Assetto Corsa (AC) through a serial connection to a microcontroller. The RPM data can then be displayed on a WS2812B RGB LED strip, or using other gauges (tachometer etc). Intended to be used as a template for other apps; demonstrating how third-party Python modules can be used (includes the Python serial library), as well as how to create a windowed app within AC that displays vehicle telemetry in real-time.
+Python app to send RPM data from Assetto Corsa (AC) through a serial connection to a microcontroller. The RPM data can then be displayed on a WS2812B RGB LED strip, or using other gauges (tachometer etc). Intended to be used as a template for other apps; demonstrating how to create a windowed app within AC that displays vehicle telemetry in real-time, as well as how third-party Python modules can be used (includes the Python serial library).
 
 ### Installation
 Extract the **python.zip** zipped file, and place the **rpmSync** folder in Assetto Corsa's Python app folder, example:
@@ -20,4 +20,5 @@ Real-time RPM data is also sent to the console, and includes error messages when
 <p align="center">
   <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1276).png" width="960" height="540">
   <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1277).png" width="960" height="540">
+  <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1289).png" width="960" height="540">
 </p>
