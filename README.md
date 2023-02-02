@@ -18,7 +18,7 @@ RPM data is sent serially as an integer ranging from 0-100, with an option to se
 Real-time RPM data is also sent to the console, and includes error messages when the current RPM exceeds the maximum RPM limit set.
 
 <p align="center">
-  <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1276).png" width="960" height="540">
-  <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1277).png" width="960" height="540">
-  <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1289).png" width="960" height="540">
+  <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1276).png">
+  <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1277).png">
+  <img src="https://github.com/MelroyCaeiro/Assetto-Corsa-Tachometer-WS2812B/blob/main/Screenshot%20(1289).png">
 </p>
